@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.calender{
+    display: grid;
+}
+.center{
+   text-align: center;
+}
+
+.card2{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1500;
+     height: 150;
+background-color:  lavender  !important;
+        margin: 10px;
+}
